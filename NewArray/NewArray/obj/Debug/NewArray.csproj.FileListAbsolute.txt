@@ -1,0 +1,50 @@
+D:\vs2013\NewArray\NewArray\bin\Debug\NewArray.exe.config
+D:\vs2013\NewArray\NewArray\bin\Debug\NewArray.exe
+D:\vs2013\NewArray\NewArray\bin\Debug\NewArray.pdb
+D:\vs2013\NewArray\NewArray\bin\Debug\EntityFramework.dll
+D:\vs2013\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2013\NewArray\NewArray\bin\Debug\EntityFramework.xml
+D:\vs2013\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2013\NewArray\NewArray\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\vs2013\NewArray\NewArray\obj\Debug\NewArray.exe
+D:\vs2013\NewArray\NewArray\obj\Debug\NewArray.pdb
+D:\vs2013\NewArray\NewArray\obj\Debug\NewArray.csprojResolveAssemblyReference.cache
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\NewArray.exe.config
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\NewArray.exe
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\NewArray.pdb
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\EntityFramework.dll
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.dll
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\EntityFramework.xml
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.xml
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\obj\Debug\NewArray.exe
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\obj\Debug\NewArray.pdb
+D:\新建文件夹\矩阵分解 (2)\NewArray\NewArray\obj\Debug\NewArray.csprojResolveAssemblyReference.cache
+D:\新建文件夹\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.exe.config
+D:\新建文件夹\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.exe
+D:\新建文件夹\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.pdb
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.exe.config
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.exe
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.pdb
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.exe
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.pdb
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.dll
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.dll
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.xml
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.xml
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\新建文件夹\基于潜在因子推荐算法的校园教学资源共享平台\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.csprojResolveAssemblyReference.cache
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.exe.config
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.exe
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.pdb
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.exe
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\NewArray.pdb
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.dll
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.xml
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\好么好的\Desktop\矩阵分解\NewArray\NewArray\obj\Debug\NewArray.csprojResolveAssemblyReference.cache
+E:\新建文件夹\BA124+基于潜在因子推荐算法的校园教学资源共享平台+郑州轻工业学院\基于潜在因子推荐算法的校园教学资源共享平台 源码和素材\基于潜在因子推荐算法的校园教学资源共享平台 源码\矩阵分解算法实例\NewArray\NewArray\bin\Debug\NewArray.exe.config
+E:\新建文件夹\BA124+基于潜在因子推荐算法的校园教学资源共享平台+郑州轻工业学院\基于潜在因子推荐算法的校园教学资源共享平台 源码和素材\基于潜在因子推荐算法的校园教学资源共享平台 源码\矩阵分解算法实例\NewArray\NewArray\obj\Debug\NewArray.exe
+E:\新建文件夹\BA124+基于潜在因子推荐算法的校园教学资源共享平台+郑州轻工业学院\基于潜在因子推荐算法的校园教学资源共享平台 源码和素材\基于潜在因子推荐算法的校园教学资源共享平台 源码\矩阵分解算法实例\NewArray\NewArray\obj\Debug\NewArray.pdb
